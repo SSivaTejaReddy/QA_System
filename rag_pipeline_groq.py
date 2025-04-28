@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # Initialize Groq client
-client = Groq(api_key="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")  # Replace with your key
+client = Groq(api_key="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")  # Replace with your key
 
 class QASystem:
     def __init__(self, index_path="faiss_index"):
