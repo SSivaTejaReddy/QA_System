@@ -1,5 +1,4 @@
 sentence-transformers==2.7.0
-transformers==4.40.0
 langchain-huggingface>=0.0.4
 faiss-cpu>=1.7.4
 tqdm>=4.66.0
